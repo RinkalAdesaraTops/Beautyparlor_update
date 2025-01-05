@@ -9681,7 +9681,8 @@ h6,
 .footer p,
 .footer a,
 .footer i {
-  color: #CCCCCC !important;
+  color:#e9a7a7 !important;
+  /* color: #CCCCCC !important; */
 }
 
 .footer .btn-primary i {
